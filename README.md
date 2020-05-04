@@ -95,7 +95,7 @@ Create a schema named av_schema and  create the following tables within the sche
     AgentID varchar(25),
     Weight varchar(25));
    
-   ![Alt text](./COMSET-GISCUP-AV_IMPACT/table%201.png?raw=true "Sample Output")
+   ![Alt text](./table%201.png?raw=true "Sample Output")
 
 
    **Optional Table :** 
@@ -104,7 +104,7 @@ Create a schema named av_schema and  create the following tables within the sche
 
    Create a Statistics table with the following constraints in your respective database.
 
-   ![Alt text](./COMSET-GISCUP-AV_IMPACT/table%202.png?raw=true "Sample Output")
+   ![Alt text](./table%202.png?raw=true "Sample Output")
    
 
    Creating this statistics table is purely optional. This was created to make a comparison of the final results.  Updating the Statistics to the Database is already commented out in the uploaded code which can be uncommented if needed. (Simulator.java file line no : 388) 
@@ -160,7 +160,7 @@ Create a schema named av_schema and  create the following tables within the sche
    **Step 3** : To run the project go to main.java (main class for this project) and hit run 
 
 ## Sample Output : 
-![Alt text](./COMSET-GISCUP-AV_IMPACT/sample%20output.png?raw=true "Sample Output")
+![Alt text](./sample%20output.png?raw=true "Sample Output")
 
 ## AUTHORS:
 * **Anjana Anand**
