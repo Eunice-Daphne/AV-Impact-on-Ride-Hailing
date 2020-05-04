@@ -132,7 +132,7 @@ Create a schema named av_schema and  create the following tables within the sche
 
    To set the hubs path and hub count
    
-   **comset.hubs_file = datasets/hubsTestA_50.csv**
+   **comset.hubs_file = datasets/hubs_50.csv**
    
    **comset.hubs_count = 50**
 
